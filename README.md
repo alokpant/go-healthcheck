@@ -17,7 +17,7 @@ Useful for quick website or service availability checks.
 
 1. **Clone this repository**:
 ```bash
-git clone https://github.com/yourusername/healthcheck.git
+git clone https://github.com/alokpant/healthcheck.git
 cd healthcheck
 ```
 
